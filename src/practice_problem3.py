@@ -3,7 +3,7 @@ PRACTICE Exam 2, practice_problem 3.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and Zixin Fan.
+         and Zixin Fan
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
